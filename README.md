@@ -1,4 +1,4 @@
-# Wrocław workszop 2019
+# Wrocław workshop 2019
 Zaplanuj swoją podróż z Pythonem - Workshop Infoshare Academy 2019
 # Instalacja
 1. Pobierz repozytorium
